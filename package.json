@@ -12,5 +12,14 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemilox/jen_stack_cc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jemilox/jen_stack_cc/issues"
+  },
+  "homepage": "https://github.com/jemilox/jen_stack_cc#readme"
 }
